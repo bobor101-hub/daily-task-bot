@@ -1,0 +1,7 @@
+# Python
+aiohttp
+*.pyc
+__pycache__/
+.venv/
+.env
+student_bot.db
